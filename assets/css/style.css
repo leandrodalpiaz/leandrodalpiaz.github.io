@@ -1,0 +1,135 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: olive;
+    padding: 10px;
+    border-radius: 10px;
+     margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: opx;
+}
+
+h2{
+    color: olive;
+    text-align: left;
+    margin-bottom: opx;
+}
+
+h3{
+    margim-botton: opx;
+    color: olive;
+    text-align: left;
+}
+
+h4{
+    margin-bottom: 0px;
+}
+
+hr{
+    margin-top: 0px;
+    border-color: orange;
+}
+
+p{
+    margin-top: 0px;
+}
+
+.tudo{
+    width: 50%;
+    border: solid 1px;
+    margin:  0 auto;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+
+.linha{
+    clear:both;
+}
+
+.tituloDados{
+    color: olive;
+}
+.itens
+{
+    float: left;
+}
+
+/* cabeçalho */
+
+.circle{
+    height: 10px;
+    width: 10px;
+    background-color: olive;
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}
+
+/* foto e contato */
+
+#foto {
+width: 30%;
+float: left;
+}
+#img{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+}
+
+.tituloDados{
+    color: olive;
+    font-weight: bolder;
+}
+
+#contato{
+    width: 68%;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+/* objetivos */
+
+#objetivos {
+    margin: 2%;
+    text-align: justify;
+}
+
+/* formação */
+
+#formacao {
+  margin: 2%;
+  text-align: left;
+}
+
+/* hab/comp */
+
+#coluna1
+{
+float: left;
+width: 45%;
+text-align: left;
+margin-left: 2%;
+margin-right: 2%;
+}
+
+#coluna2
+{
+float: left;
+background-color:orange;
+width: 1px;
+height: 400px;
+}
+
+#coluna3
+{
+width: 45%;
+float: left;
+text-align: left;
+margin-left: 2%;
+margin-right: 2%;
+}
